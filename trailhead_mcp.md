@@ -4,7 +4,7 @@
 
 | Settings | Value |
 | --- | --- |
-| Server endpoint | https://mcp.trailhead.salesforce.com/mcp |
+| Server endpoint | `https://mcp.trailhead.salesforce.com/mcp` |
 | Authentication | No authentication required |
 
 **content_search** — Use for discovery. Great when you know the topic but not the exact badge or trail name. Example: "Find Trailhead content on Apex testing best practices."
