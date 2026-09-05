@@ -20,7 +20,7 @@ MIT Licence
 
 ## Project status
 
-✅ Ready for usage
+✅ Ready - in maintenance mode
 
 My experience has been very positive, I've used this agent to revise for two Salesforce exams which I passed.
 
